@@ -5,7 +5,7 @@ const membersData = {
         role: "หัวหน้าพรรค",
         desc: "“ผู้นำที่พร้อมรับฟัง มุ่งมั่นพัฒนา YSP”",
         img: "Screenshot_20260119_191420_Instagram.jpg",
-        ig: "https://instagram.com/ชื่อไอจี",
+        ig: "https://instagram.com/t1.nuengx",
         fb: "https://facebook.com/ชื่อเฟส"
     },
     2: {
