@@ -43,10 +43,10 @@ function openMemberDetail(id) {
     document.getElementById('modalDesc').innerText = member.desc;
     
     // ตั้งค่ารูปภาพ (ถ้ามีไฟล์จริงให้เปลี่ยน path ตรงนี้)
-    document.getElementById('modalImg').src = `Screenshot_20260120_202338_Gallery.jpg`;
+    document.getElementById('modalImg').src = "Screenshot_20260120_202338_Gallery.jpg";
     
-    document.getElementById('modalIG').href = `https://instagram.com/${member.ig}`;
-    document.getElementById('modalFB').href = `https://facebook.com/${member.fb}`;
+    document.getElementById('modalIG').href = `https://www.instagram.com/t1.nuengx?igsh=MXdiaGptdng5bm1udA==/${member.ig}`;
+    document.getElementById('modalFB').href = `https://www.facebook.com/share/1C5pvPGwvh/${member.fb}`;
 
     modal.style.display = "flex";
 }
