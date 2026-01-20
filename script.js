@@ -23,7 +23,7 @@ document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
 
 // 3. Member Data (ข้อมูลจำลอง - น้องเต็งหนึ่งสามารถแก้ตรงนี้ได้เลย)
 const membersData = {
-    1: { name: "นายสมชาย ใจดี", pos: "ประธานพรรค", desc: "มุ่งมั่นทำงาน สานต่อความสำเร็จ", ig: "somchai_ig", fb: "Somchai Jaidee" },
+    1: { name: "นายศิริพงศ์ พลไชย", pos: "ประธานพรรค", desc: "มุ่งมั่นทำงาน สานต่อความสำเร็จ", ig: "t1.nuengx", fb: "Siripong Phonchai" },
     2: { name: "นางสาวสมหญิง จริงใจ", pos: "รองประธาน", desc: "รับฟังทุกปัญหา แก้ไขทันที", ig: "somying_ig", fb: "Somying Jingjai" },
     3: { name: "นายรักเรียน เพียรศึกษา", pos: "ฝ่ายวิชาการ", desc: "ดันเกรดเฉลี่ยให้พุ่งกระฉูด", ig: "rukrian_ig", fb: "Rukrian" },
     // ใส่ข้อมูลเพิ่มได้เรื่อยๆ จนครบ 10 คน
