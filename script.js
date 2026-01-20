@@ -43,7 +43,7 @@ function openMemberDetail(id) {
     document.getElementById('modalDesc').innerText = member.desc;
     
     // ตั้งค่ารูปภาพ (ถ้ามีไฟล์จริงให้เปลี่ยน path ตรงนี้)
-    document.getElementById('modalImg').src = `https://via.placeholder.com/150?text=Member+${id}`;
+    document.getElementById('modalImg').src = `Screenshot_20260120_202338_Gallery.jpg`;
     
     document.getElementById('modalIG').href = `https://instagram.com/${member.ig}`;
     document.getElementById('modalFB').href = `https://facebook.com/${member.fb}`;
