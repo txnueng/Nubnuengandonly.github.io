@@ -1,10 +1,10 @@
 // ข้อมูลสมาชิก 10 คน (แก้ไขข้อมูลจริงตรงนี้)
 const membersData = {
     1: {
-        name: "นาย ก. ไก่ (ชื่อเล่น)",
+        name: "นายศิริพงศ์ พลไชย(เต็งหนึ่ง)",
         role: "หัวหน้าพรรค",
         desc: "“ผู้นำที่พร้อมรับฟัง มุ่งมั่นพัฒนา YSP”",
-        img: "https://via.placeholder.com/150",
+        img: "Screenshot_20260119_191420_Instagram.jpg",
         ig: "https://instagram.com/ชื่อไอจี",
         fb: "https://facebook.com/ชื่อเฟส"
     },
